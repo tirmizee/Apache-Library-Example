@@ -11,3 +11,5 @@
 - ### Apache Commons Numbers
 
 - ### Apache Tika
+
+Apache Tika ชุดเครื่องมือตรวจจับและแยก metadata และข้อความจากไฟล์ประเภทต่างๆ
